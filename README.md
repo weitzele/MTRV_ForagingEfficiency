@@ -6,9 +6,12 @@
 Elic M. Weitzel
 
 ## Contents
-- R Code for "Declining foraging efficiency in the Middle Tennessee River Valley prior to initial domestication" by Elic M. Weitzel (n.d.)
-- RData_MTRVFE.csv (data from Curren 1976; Gregory 2011; Morey 1996; Parmalee 1962, 1964; Walker 1998; Warren 1975; Weigel 1974, and Weitzel n.d.)
-- ReturnRates_MTRVFE.csv (data from Carmody 2009; Hollenbach 2005; and Thomas 2008)
+- Weitzel_MTRV_ForagingEfficiency.R 
+	- R Code for "Declining foraging efficiency in the Middle Tennessee River Valley prior to initial domestication" by Elic M. Weitzel (n.d.)
+- RData_MTRVFE.csv
+	- data from Curren 1976; Gregory 2011; Morey 1996; Parmalee 1962, 1964; Walker 1998; Warren 1975; Weigel 1974, and Weitzel n.d.
+- ReturnRates_MTRVFE.csv 
+	- data from Carmody 2009; Hollenbach 2005; and Thomas 2008
 
 
 ### References
